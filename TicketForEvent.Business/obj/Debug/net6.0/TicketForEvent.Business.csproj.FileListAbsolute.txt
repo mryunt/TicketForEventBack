@@ -1,0 +1,17 @@
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\obj\Debug\net6.0\TicketForEvent.Business.csproj.AssemblyReference.cache
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\obj\Debug\net6.0\TicketForEvent.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\obj\Debug\net6.0\TicketForEvent.Business.AssemblyInfoInputs.cache
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\obj\Debug\net6.0\TicketForEvent.Business.AssemblyInfo.cs
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\obj\Debug\net6.0\TicketForEvent.Business.csproj.CoreCompileInputs.cache
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\bin\Debug\net6.0\TicketForEvent.Business.deps.json
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\bin\Debug\net6.0\TicketForEvent.Business.dll
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\bin\Debug\net6.0\TicketForEvent.Business.pdb
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\bin\Debug\net6.0\AppCore.dll
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\bin\Debug\net6.0\TicketForEvent.DAL.dll
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\bin\Debug\net6.0\AppCore.pdb
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\bin\Debug\net6.0\TicketForEvent.DAL.pdb
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\obj\Debug\net6.0\TicketForEvent.Business.csproj.CopyComplete
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\obj\Debug\net6.0\TicketForEvent.Business.dll
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\obj\Debug\net6.0\refint\TicketForEvent.Business.dll
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\obj\Debug\net6.0\TicketForEvent.Business.pdb
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.Business\obj\Debug\net6.0\ref\TicketForEvent.Business.dll

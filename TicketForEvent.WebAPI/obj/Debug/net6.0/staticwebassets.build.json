@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6N4FW/RsSMaPyxVUc2Cz4iRvRFOU22BG0ZjvqSZkgCs=",
+  "Source": "TicketForEvent.WebAPI",
+  "BasePath": "_content/TicketForEvent.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

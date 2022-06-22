@@ -1,0 +1,19 @@
+﻿using FluentValidation;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using TicketForEvent.DAL.Dtos.Salon;
+
+namespace TicketForEvent.Business.Validation.Salon
+{
+    public class SalonAddValidator : AbstractValidator<AddSalonDto>
+    {
+        public SalonAddValidator()
+        {
+            RuleFor(p => p.OpenAddressId).NotEmpty().WithMessage("Salon ID' si boş bırakılamaz!");
+            RuleFor(p => p.Name).NotEmpty().WithMessage("Salon ismi alanı boş bırakılamaz!");
+        }
+    }
+}

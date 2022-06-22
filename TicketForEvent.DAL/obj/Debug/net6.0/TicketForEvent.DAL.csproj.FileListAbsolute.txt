@@ -1,0 +1,17 @@
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\TicketForEvent.DAL.csproj.AssemblyReference.cache
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\TicketForEvent.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\TicketForEvent.DAL.AssemblyInfoInputs.cache
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\TicketForEvent.DAL.AssemblyInfo.cs
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\TicketForEvent.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\bin\Debug\net6.0\TicketForEvent.DAL.deps.json
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\bin\Debug\net6.0\TicketForEvent.DAL.runtimeconfig.json
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\bin\Debug\net6.0\TicketForEvent.DAL.dll
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\bin\Debug\net6.0\TicketForEvent.DAL.pdb
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\bin\Debug\net6.0\AppCore.dll
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\bin\Debug\net6.0\AppCore.pdb
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\TicketForEvent.DAL.csproj.CopyComplete
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\TicketForEvent.DAL.dll
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\refint\TicketForEvent.DAL.dll
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\TicketForEvent.DAL.pdb
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\TicketForEvent.DAL.genruntimeconfig.cache
+C:\Users\mryunt\source\repos\TicketForEvent\TicketForEvent.DAL\obj\Debug\net6.0\ref\TicketForEvent.DAL.dll
